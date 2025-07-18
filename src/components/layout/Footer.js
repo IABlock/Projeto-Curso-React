@@ -24,7 +24,7 @@ function Footer() {
         </li>
       </ul>
       <p className={styles.copy_right}>
-          <span>© 2023 Meu Projeto.</span> Todos os direitos reservados.</p>
+          <span>© 2025 Meu Projeto.</span> Todos os direitos reservados.</p>
     </footer>
   );
 }
