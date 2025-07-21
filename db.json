@@ -131,6 +131,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "1d27",
+      "name": "Planejamento",
+      "budget": "123",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
