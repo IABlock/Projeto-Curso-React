@@ -9,6 +9,7 @@
     border-radius: 4px;
     text-decoration: none;
     cursor: pointer;
+    align-items: center;
 }
 
 .btn:hover {
