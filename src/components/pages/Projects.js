@@ -20,6 +20,7 @@ function Projects() {
         message = location.state.message;
     }
 
+    //Carrega Projetos
     useEffect(() => {
         setTimeout(() => {
             fetch('http://localhost:3001/projects', {
@@ -35,6 +36,7 @@ function Projects() {
                 }, 3000);
     }, []);
 
+    //Remove Projeto
     function removeProject(id) {
       fetch(`http://localhost:3001/projects/${id}`, {
         method: 'DELETE',

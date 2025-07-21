@@ -1,0 +1,12 @@
+.project_container {
+  padding: 20px;
+}
+
+.project_details {
+  margin-bottom: 20px;
+}
+
+.project_actions {
+  display: flex;
+  justify-content: space-between;
+}
