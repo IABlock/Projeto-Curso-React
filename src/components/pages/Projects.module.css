@@ -1,0 +1,17 @@
+.project_container {
+  padding: 2em;
+}
+
+.title_container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}  
+
+.project h2 {
+  margin: 0 0 10px;
+}
+
+.project p {
+  margin: 0;
+}
