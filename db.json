@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "27e3",
-      "name": "Botao Sucesso",
-      "budget": "123",
+      "name": "Botao Sucesso OK OK",
+      "budget": "1233",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
