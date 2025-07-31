@@ -3,13 +3,26 @@
     {
       "id": "27e3",
       "name": "Botao Sucesso OK OK",
-      "budget": "1233",
+      "budget": "100",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 30,
+      "services": [
+        {
+          "name": "oi",
+          "cost": "10",
+          "description": "oioi",
+          "id": "62d3c522-e65d-4576-b37c-5db72d2d3a2f"
+        },
+        {
+          "name": "oi 2",
+          "cost": "20",
+          "description": "oioi 2",
+          "id": "9c86088c-6024-4158-9b19-011bbef7514d"
+        }
+      ]
     },
     {
       "id": "f4c6",

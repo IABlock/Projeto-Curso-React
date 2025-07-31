@@ -20,12 +20,24 @@
 
 .details_container,
 .service_form_container {
+  width: 800px;
   border-bottom: 1px solid #7a7a7a;
   padding-bottom: 1.2em;
   margin-bottom: 1.2em;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+}
+
+.details_container_column {
+  flex-direction: column;
+  width: 800px;
+  border-bottom: 1px solid #7a7a7a;
+  padding-bottom: 1.2em;
+  margin-bottom: 1.2em;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;   
 }
 
 .btn {
