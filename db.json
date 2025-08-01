@@ -8,19 +8,13 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 30,
+      "cost": 1,
       "services": [
         {
           "name": "oi",
-          "cost": "10",
-          "description": "oioi",
-          "id": "62d3c522-e65d-4576-b37c-5db72d2d3a2f"
-        },
-        {
-          "name": "oi 2",
-          "cost": "20",
-          "description": "oioi 2",
-          "id": "9c86088c-6024-4158-9b19-011bbef7514d"
+          "cost": "1",
+          "description": "oi",
+          "id": "78f753ae-da59-479e-9819-ed07725212fd"
         }
       ]
     },

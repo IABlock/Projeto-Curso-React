@@ -52,27 +52,27 @@
     background-color: #fbe7c6;
 }
 
-.project_card_actions{
-    display: flex;
-    align-items: center;    
-    margin-top: 1em;
+.project_card_actions {
+  margin-top: 1.2em;
+  display: flex;
+  align-items: center;
 }
 
 .project_card_actions a,
 .project_card_actions button {
-    text-decoration: none;
-    background-color: #fff;
-    border: none;
-    color: #222;
-    padding: 0.6em 1em;
-    font-size: .9em;
-    cursor: pointer;
-    margin-right: 1em;
-    align-items: center;
-    display: flex;
-    border: 1px solid #222;
-    justify-content: center;
-    transition: 0.5s;
+  text-decoration: none;
+  border: none;
+  background-color: #fff;
+  color: #222;
+  font-size: 0.9em;
+  padding: 0.6em 1em;
+  margin-right: 1em;
+  cursor: pointer;
+  border: 1px solid #222;
+  transition: 0.5s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .project_card_actions svg {
